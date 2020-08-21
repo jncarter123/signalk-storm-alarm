@@ -1,0 +1,12 @@
+{
+  "name": "signalk-barometric-storm-alarm",
+  "version": "1.0.0",
+  "description": "Barometric storm alarm for SignalK",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "Jeremy Carter",
+  "license": "ISC",
+  "repository": "https://github.com/jncarter123/signalk-storm-alarm"
+}
